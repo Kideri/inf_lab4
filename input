@@ -1,0 +1,30 @@
+{
+    "day": "monday",
+    "1": {
+        "name": "English",
+        "week-type": "2",
+        "time": "8:20-9:50",
+        "place": {
+            "lecture_hall": "3207",
+            "street": "Lomonosova 9E"
+        }
+    },
+    "2": {
+        "name": "Physics (practice)",
+        "week-type": "0",
+        "time": "11:40-13:10",
+        "place": {
+            "lecture_hall": "2438",
+            "street": "Lomonosova 9E"
+        }
+    },
+    "3": {
+        "name": "Physics (laboratory)",
+        "week-type": "1",
+        "time": "11:40-13:10",
+        "place": {
+            "lecture_hall": "2407",
+            "street": "Lomonosova 9E"
+        }
+    }
+}

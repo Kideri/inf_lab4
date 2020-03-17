@@ -1,0 +1,28 @@
+1 {
+    week-type: "2"
+    place {
+        lecture_hall: "3207"
+        street: "Lomonosova 9E"
+    }
+    name: "English"
+    time: "8:20-9:50"
+}
+3 {
+    week-type: "1"
+    place {
+        lecture_hall: "2407"
+        street: "Lomonosova 9E"
+    }
+    name: "Physics (laboratory)"
+    time: "11:40-13:10"
+}
+2 {
+    week-type: "0"
+    place {
+        lecture_hall: "2438"
+        street: "Lomonosova 9E"
+    }
+    name: "Physics (practice)"
+    time: "11:40-13:10"
+}
+day: "monday"
